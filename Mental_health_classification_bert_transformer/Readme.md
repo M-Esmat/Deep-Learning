@@ -13,6 +13,7 @@ Welcome to the **Mental Health Classification** project – an end-to-end soluti
 - [Model Fine-Tuning](#model-fine-tuning)
 - [Model Evaluation](#model-evaluation)
 - [Streamlit App](#streamlit-app)
+- [Dataset](#Dataset)
 
 
 ---
@@ -96,3 +97,10 @@ The project includes a user-friendly Streamlit web app that allows users to inpu
 - A custom-designed interface with cool emojis and hover effects.
 - Real-time predictions with confidence scores.
 - An engaging and clean layout.
+
+
+## 📂 Dataset
+The dataset used for training is **Sentiment Analysis for Mental Health**, available on Kaggle:
+
+📥 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data)
+
